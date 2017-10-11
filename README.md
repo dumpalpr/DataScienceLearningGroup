@@ -9,3 +9,5 @@ The curiculum consists of various topics that are needed for data science.
 -- Statistics
 -- Programming
   
+  
+  test Pradeep
